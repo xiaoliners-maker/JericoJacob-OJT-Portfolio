@@ -98,7 +98,7 @@ lib/
 - **Language**: TypeScript (strict)
 - **Styling**: Tailwind CSS
 - **Data**: Local JSON + Markdown (gray-matter + remark)
-- **Deployment**: Vercel / Netlify (static export)
+- **Deployment**: Vercel
 
 ## 👤 Intern Info
 
