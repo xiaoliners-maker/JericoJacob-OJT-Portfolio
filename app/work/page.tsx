@@ -19,7 +19,7 @@ export default function WorkPage() {
           Work
         </h1>
         <p style={{ fontSize: "0.9375rem", color: "var(--text-secondary)", maxWidth: "520px", lineHeight: 1.7 }}>
-          All projects and activities completed during the 10-week internship. Filter by category or tech stack.
+          All projects and activities completed during the 11-weeks internship. Filter by category or tech stack.
         </p>
       </div>
       <div className="animate-enter animate-enter-2">

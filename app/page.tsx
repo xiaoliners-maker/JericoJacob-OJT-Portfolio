@@ -289,7 +289,7 @@ export default function HomePage() {
             Front-End &amp; Mobile Developer intern at{" "}
             <span style={{ color: "var(--text-primary)" }}>Makerspace Innovhub</span>.
             Built full-stack systems with React, Flutter, and Firebase over{" "}
-            <span style={{ color: "var(--accent)" }}>10 weeks</span>.
+            <span style={{ color: "var(--accent)" }}>11 weeks</span>.
           </p>
 
           <p
