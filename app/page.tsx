@@ -382,7 +382,7 @@ export default function HomePage() {
                 ...project,
                 liveUrl: undefined,
                 repoUrl: undefined,
-                apkUrl: "/meditrack-mobile.apk",
+                apkUrl: "https://drive.google.com/drive/folders/1hAnSS8sodqsIYsq07cJEbjKbEsojZhyK?usp=sharing",
               };
               return <ProjectCard key={project.id} project={mobileProject} />;
             }

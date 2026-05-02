@@ -73,7 +73,7 @@ const projectsData: Project[] = [
     liveUrl: "https://drive.google.com/drive/folders/1hAnSS8sodqsIYsq07cJEbjKbEsojZhyK?usp=sharing",
     highlights: [
       "Cross-platform (Android) via Flutter",
-      "Karaoke-style medication schedule display",
+      "Medication schedule display",
       "Firebase Auth with role-based login",
       "Push notification reminders (FCM)",
       "Edit Profile & avatar upload",
