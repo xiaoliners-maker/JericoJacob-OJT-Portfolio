@@ -256,12 +256,7 @@ export default function HomePage() {
         }}
       >
         <div style={{ flex: "1 1 320px" }}>
-          <div style={{ marginBottom: "1.5rem" }}>
-            {/* ✏️ CHANGE 1: dot <span> removed — plain text label only */}
-            <span className="status-badge">
-              OJT · Makerspace Innovhub · 2026
-            </span>
-          </div>
+
 
           <h1
             style={{
@@ -301,7 +296,7 @@ export default function HomePage() {
               letterSpacing: "0.04em",
             }}
           >
-            University of Eastern Pangasinan · Feb–Apr 2026
+            University of Eastern Pangasinan · Feb–May 2026
           </p>
 
           <div style={{ display: "flex", flexWrap: "wrap" as const, gap: "0.625rem" }}>

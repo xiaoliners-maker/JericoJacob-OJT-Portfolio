@@ -20,7 +20,7 @@ export default function LogsPage() {
           Weekly Logs
         </h1>
         <p style={{ fontSize: "0.9375rem", color: "var(--text-secondary)", maxWidth: "520px", lineHeight: 1.7 }}>
-          10 weeks of learning, building, and shipping. Each log captures what was built, learned, and challenged.
+          11 weeks of learning, building, and shipping. Each log captures what was built, learned, and challenged.
         </p>
       </div>
 
