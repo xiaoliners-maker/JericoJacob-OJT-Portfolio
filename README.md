@@ -104,6 +104,3 @@ lib/
 
 - **Name**: Jerico P. Jacob
 - **University**: University of Eastern Pangasinan
-- **Company**: Makerspace Innovhub
-- **Supervisor**: Carl Daniel F. Estrada, MIH
-- **Period**: Feb 9 – Apr 25, 2026
